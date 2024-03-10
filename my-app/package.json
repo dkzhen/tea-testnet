@@ -23,5 +23,5 @@
     "eslint": "^8",
     "eslint-config-next": "14.1.3"
   },
-  "repository": "https://github.com/"
+  "repository": "https://github.com/dkzhen/tea-testnet"
 }
